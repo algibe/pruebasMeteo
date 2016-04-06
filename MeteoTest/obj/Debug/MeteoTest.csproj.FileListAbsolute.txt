@@ -1,0 +1,16 @@
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\bin\Debug\MeteoTest.dll
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\bin\Debug\MeteoTest.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\bin\Debug\Meteo.dll
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\bin\Debug\Meteo.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\obj\Debug\MeteoTest.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\obj\Debug\MeteoTest.dll
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex2.Meteo\MeteoTest\obj\Debug\MeteoTest.pdb
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\MeteoTest.dll
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\MeteoTest.pdb
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\Meteo.dll
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\Meteo.pdb
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\obj\Debug\MeteoTest.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\obj\Debug\MeteoTest.dll
+C:\Users\Albert\Desktop\COLE\uf2_m05\Meteo - alumne\MeteoTest\obj\Debug\MeteoTest.pdb
